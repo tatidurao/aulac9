@@ -3,7 +3,7 @@ var box
 function setup() {
   createCanvas(400,400);
   //criar sprite aqui
-  box = createSprite(100,200,20,20)
+ 
 
 }
 
@@ -17,7 +17,7 @@ function draw()
 
   
   //código para mostrar sprites
-  drawSprites();
+  
 }
 
 
